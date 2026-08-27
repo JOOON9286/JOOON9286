@@ -1,13 +1,25 @@
 ## 김준
+백엔드 개발자 · 신입
 
-백엔드 개발자로 커리어를 시작합니다. Java/Spring 기반 API 설계부터 배포·운영까지 직접 다루는 걸 좋아하고, 팀 프로젝트 세 개 중 두 개는 진행 중 팀장이 빠지면서 남은 백엔드를 혼자 맡아 끝까지 완성했습니다.
+Java/Spring으로 API를 설계하고 배포까지 직접 해보는 게 재밌어서 이 일을 시작했습니다. 팀 프로젝트 세 개 중 두 개는 진행 중간에 팀장이 빠지면서, 남은 백엔드를 혼자 맡아 끝까지 완성까지 가져가봤습니다.
 
-**Stack** — Java, Spring Boot, Spring Security, JPA · MySQL, PostgreSQL, Redis · Docker, AWS, GitHub Actions · React
+지금은 백엔드를 더 깊이 파는 중이고, 다음 단계로는 프론트엔드까지 아울러 처음부터 끝까지 만들 수 있는 개발자가 되는 걸 목표로 하고 있습니다.
 
-**Projects**
+---
 
-- [petcare-backend](https://github.com/JOOON9286/petcare-backend) — 반려동물 비대면 진료 서비스. WebRTC 화상진료 기능 직접 구현
-- [barofarm-backend](https://github.com/JOOON9286/barofarm-backend) — 로컬푸드 직매장 플랫폼
-- [unName](https://github.com/JOOON9286/unName) — BudgetOps 예산관리시스템, AWS 배포 전담
+**할 수 있는 것**
+- REST API 설계·구현, JWT 기반 인증/인가
+- Docker·AWS EC2를 활용한 배포 및 운영
+- WebSocket 기반 실시간 통신(WebRTC 시그널링) 구현
+- React 기반 화면 개발 (백엔드 위주지만 필요하면 프론트도 함)
+
+**Stack**
+
+| 구분 | 기술 |
+|---|---|
+| Backend | Java, Spring Boot, Spring Security, JPA |
+| Database | MySQL, PostgreSQL, Redis |
+| Infra | Docker, AWS, GitHub Actions |
+| Frontend | React |
 
 mark7967@naver.com
