@@ -22,4 +22,4 @@ Java/Spring으로 API를 설계하고 배포까지 직접 해보는 게 재밌�
 | Infra | Docker, AWS, GitHub Actions |
 | Frontend | React |
 
-mark7967@naver.com
+이메일 : mark7967@naver.com
