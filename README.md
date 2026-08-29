@@ -13,13 +13,7 @@ Java/Spring으로 API를 설계하고 배포까지 직접 해보는 게 재밌�
 - WebSocket 기반 실시간 통신(WebRTC 시그널링) 구현
 - React 기반 화면 개발 (백엔드 위주지만 필요하면 프론트도 함)
 
-**Stack**
-
-| 구분 | 기술 |
-|---|---|
-| Backend | Java, Spring Boot, Spring Security, JPA |
-| Database | MySQL, PostgreSQL, Redis |
-| Infra | Docker, AWS, GitHub Actions |
-| Frontend | React |
+### Main skills
+[![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,docker,aws,githubactions,react,git,github)](https://skillicons.dev)
 
 이메일 : mark7967@naver.com
