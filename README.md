@@ -16,4 +16,11 @@ Java/Spring으로 API를 설계하고 배포까지 직접 해보는 게 재밌�
 ### Main skills
 [![My Skills](https://skillicons.dev/icons?i=java,spring,mysql,postgres,redis,docker,aws,githubactions,react,git,github)](https://skillicons.dev)
 
+| 구분 | 기술 |
+|---|---|
+| Backend | Java, Spring Boot, Spring Security, JPA |
+| Database | MySQL, PostgreSQL, Redis |
+| Infra | Docker, AWS (EC2, S3), GitHub Actions |
+| Frontend | React |
+
 이메일 : mark7967@naver.com
